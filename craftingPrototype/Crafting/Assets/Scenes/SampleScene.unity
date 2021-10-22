@@ -1522,9 +1522,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f666d970f509b8c4bb22b363239e2561, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wood: 0
-  stone: 0
-  scrap: 0
+  wood: 10
+  stone: 10
+  scrap: 10
   stoneAxe: 0
   inventory: {fileID: 1244570622}
   background: {fileID: 37053900}
